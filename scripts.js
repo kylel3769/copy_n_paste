@@ -34,5 +34,5 @@ function copyText5() {
 
     /* Copy text into clipboard */
     navigator.clipboard.writeText
-        ("Do not put the wrong inputs.");
+        ("I will escort you.");
 }
