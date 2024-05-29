@@ -21,7 +21,6 @@ function copyText3() {
         ("You are being terminated for trespassing.");
 }
 
-
 function copyText4() {
 
     /* Copy text into clipboard */
@@ -29,10 +28,17 @@ function copyText4() {
         ("Do not put the wrong inputs.");
 }
 
-
 function copyText5() {
 
     /* Copy text into clipboard */
     navigator.clipboard.writeText
-        ("Do not put the wrong inputs.");
+        ("Follow the scientist.");
+}
+
+
+function copyText6() {
+
+    /* Copy text into clipboard */
+    navigator.clipboard.writeText
+        ("I will escort you.");
 }
