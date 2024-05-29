@@ -1,0 +1,40 @@
+
+
+        body {
+            margin: 100px;
+        }
+
+        #textbox {
+            width: 40vw;
+            height: 30vh;
+        }
+
+        p {
+            padding: 35px;
+        }
+
+        button {
+            width: 80px;
+            height: 50px;
+            background-color: #ca3935;
+            color: white;
+            border-radius: 10px;
+            box-shadow: grey;
+        }
+
+
+        #sample {
+            width: 70vw;
+            font-size: 15px !important;
+            background-color: #ca3935;
+            color: white;
+            padding: 10px;
+            font-size: x-large;
+
+        }
+
+        h1 {
+            margin-left: 50px;
+            margin-top: 160px;
+        }
+
